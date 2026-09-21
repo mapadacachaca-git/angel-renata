@@ -1,0 +1,13 @@
+# Hermes/local agent runtime artifacts
+.agents/
+skills-lock.json
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.tmp
+
+# Secrets and credentials
+.env
+*.key
+*.pem
